@@ -14,5 +14,5 @@ data = {
     "hiep": "deptrai",
 }
 
-
+# Add data 
 db.collection("hehe").document("hoho").set(data)
